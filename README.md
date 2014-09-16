@@ -16,4 +16,4 @@ Add a tab bar for Box Office and DVD. (optional)
 
 
 
-![Screen capture](tipVideo3.gif)
+![Screen capture](tomatoVideo2.gif)
